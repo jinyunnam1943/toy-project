@@ -1,12 +1,11 @@
 .Bigcontainer {
-  display: flex;
-  /* height: 660px; */
-  width: 100vw;
-  grid-template-columns: 60% 40%;
-  justify-content: center;
-  padding-top: 20px;
-}
+    display: flex;
+    height: 660px;
+    grid-template-columns: 60% 40%;
+    justify-content: center;
 
-.Box {
-  display: flex;
-}
+  }
+  
+  .Box {
+    display: flex;
+  }
